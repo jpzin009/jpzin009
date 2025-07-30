@@ -11,20 +11,14 @@
 <!-- CARD Estatísticas -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h2 align="center"> Estatísticas GitHub</h2>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=
-jpzin009
-&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs?username=
-jpzin009
-&layout=donut&langs_count=7&theme=algolia"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=jpzin009&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpzin009&layout=donut&langs_count=7&theme=algolia"/>
 </div>
 
 <!-- CARD Atividade -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h2 align="center"> Contribuições Recentes</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=
-jpzin009
-&theme=react-dark" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jpzin009&theme=react-dark" width="100%"/>
 </div>
 
 <!-- CARD Skills -->
@@ -37,19 +31,13 @@ jpzin009
 
 <!-- CARD Snake -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  <img src="https://github.com/
-jpzin009
-/
-jpzin009
-/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/jpzin009/jpzin009/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <!-- CARD Contador -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h2 align="center"> Contador de Visitantes</h2>
-  <img src="https://profile-counter.glitch.me/{
-jpzin009
-}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{jpzin009}/count.svg" />
 </div>
 
 <!-- Rodapé animado -->
